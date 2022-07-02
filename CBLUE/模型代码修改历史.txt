@@ -1,0 +1,9 @@
+1.
+F:\PycharmProject\kbqa\CBLUE-main\baselines\run_classifier.py的781行注释了，换了下类别
+换回需要注释回来
+
+2.
+F:\PycharmProject\kbqa\CBLUE-main\cblue\trainer\train.py的697行开始的******代码自己加的，同时把一行源代码注释了
+
+3.
+F:\PycharmProject\kbqa\CBLUE-main\cblue\metrics\cblue_commit.py的29行开始的******代码自己加的，同时把两行源代码注释了
